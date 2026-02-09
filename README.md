@@ -3,7 +3,7 @@
 ### 💻 Full Stack Developer | Python Enthusiast
 I specialize in building scalable web applications that bridge the gap between powerful backends and intuitive user interfaces.
 
-- **🔭 Currently Working On:** A [Project Name] using FastAPI and React.
+- **🔭 Currently Working On:** Project **aLiCe** using FastAPI and React.
 - **🌱 Learning:** Advanced System Design and Large Language Model (LLM) integration.
 - **💬 Ask Me About:** Python optimization, RESTful APIs, and Frontend state management.
 
@@ -22,7 +22,7 @@ I specialize in building scalable web applications that bridge the gap between p
 ---
 
 ### 📊 GitHub Stats
-![Zixrcln's Stats](https://github-readme-stats.vercel.app/api?username=Zixrcln&show_icons=true&theme=tokyonight)
+![Zixrcln's Stats](https://github-readme-stats.vercel.app/api?username=Zixrclngvecfcercs352&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zixrcln&layout=compact&theme=tokyonight)
 
 ---
